@@ -57,7 +57,7 @@ public Object[][] getdata()
 @AfterTest
 public void testend()
 {
-	driver.close();
+	driver.close();//prem
 }
 
 }
