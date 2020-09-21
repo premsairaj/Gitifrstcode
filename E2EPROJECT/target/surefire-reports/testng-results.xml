@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22622" started-at="2020-07-18T18:51:49 VLAT" finished-at="2020-07-18T18:52:11 VLAT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22622" started-at="2020-07-18T18:51:49 VLAT" finished-at="2020-07-18T18:52:11 VLAT">
+      <class name="LIVEPROJECT.E2EPROJECT.Gettext">
+        <test-method status="PASS" signature="intil()[pri:0, instance:LIVEPROJECT.E2EPROJECT.Gettext@887af79]" name="intil" is-config="true" duration-ms="8414" started-at="2020-07-18T18:51:57 VLAT" finished-at="2020-07-18T18:52:06 VLAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intil -->
+        <test-method status="PASS" signature="navigatepage()[pri:0, instance:LIVEPROJECT.E2EPROJECT.Gettext@887af79]" name="navigatepage" duration-ms="133" started-at="2020-07-18T18:52:11 VLAT" finished-at="2020-07-18T18:52:11 VLAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatepage -->
+        <test-method status="PASS" signature="testsend()[pri:0, instance:LIVEPROJECT.E2EPROJECT.Gettext@887af79]" name="testsend" is-config="true" duration-ms="104" started-at="2020-07-18T18:52:11 VLAT" finished-at="2020-07-18T18:52:11 VLAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsend -->
+      </class> <!-- LIVEPROJECT.E2EPROJECT.Gettext -->
+      <class name="LIVEPROJECT.E2EPROJECT.BaseTest">
+        <test-method status="PASS" signature="inti()[pri:0, instance:LIVEPROJECT.E2EPROJECT.BaseTest@7b49cea0]" name="inti" is-config="true" duration-ms="8489" started-at="2020-07-18T18:51:49 VLAT" finished-at="2020-07-18T18:51:57 VLAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inti -->
+        <test-method status="PASS" signature="navigatepage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LIVEPROJECT.E2EPROJECT.BaseTest@7b49cea0]" name="navigatepage" duration-ms="3368" started-at="2020-07-18T18:52:06 VLAT" data-provider="getdata" finished-at="2020-07-18T18:52:09 VLAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[premsairobo@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7386029083p]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[restricted]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatepage -->
+        <test-method status="PASS" signature="navigatepage(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LIVEPROJECT.E2EPROJECT.BaseTest@7b49cea0]" name="navigatepage" duration-ms="1958" started-at="2020-07-18T18:52:09 VLAT" data-provider="getdata" finished-at="2020-07-18T18:52:11 VLAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sairobo@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[73860083p]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nonrestricted]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatepage -->
+        <test-method status="PASS" signature="testend()[pri:0, instance:LIVEPROJECT.E2EPROJECT.BaseTest@7b49cea0]" name="testend" is-config="true" duration-ms="88" started-at="2020-07-18T18:52:11 VLAT" finished-at="2020-07-18T18:52:11 VLAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testend -->
+      </class> <!-- LIVEPROJECT.E2EPROJECT.BaseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
